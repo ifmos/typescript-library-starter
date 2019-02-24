@@ -1,6 +1,16 @@
 {
   "extends": [
+    "tslint:latest",
     "tslint-config-standard",
     "tslint-config-prettier"
-  ]
+  ],
+  "rules":{
+    "semicolon":false,
+    "trailing-comma":{
+      "options": {
+        "singleline": "never",
+        "multiline": "always"
+      }
+    }
+  }
 }
