@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "msjsdiag.debugger-for-chrome",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "orta.vscode-jest",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "techer.open-in-browser",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+  ]
+}
